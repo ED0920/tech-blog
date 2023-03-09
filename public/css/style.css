@@ -81,7 +81,7 @@ section {
   width: 100%;
   color: #d2ddd7;
   border-radius: 5px;
-  background-color: #413734;
+  background-color: #7c7371;
   box-shadow: 1px 2.5px #413734;
 }
 
@@ -119,13 +119,34 @@ section {
   display: flex;
   flex-direction: column;
 }
+.title-box {
+  margin: 5px 0px 5px 0px;
+  padding-left: 10px;
+  height: 4vh;
+  font-size: 18px;
+}
 .comment-box {
   margin: 5px 0px 5px 0px;
   height: 10vh;
+  font-size: 16px;
+  padding-left: 10px;
 }
 
 .submit-btn {
   margin: 5px 0px 10px 0px;
   padding: 10px;
   border-radius: 5px;
+  font-size: 22px;
+}
+.new-btn {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding: 10px 20px 10px 20px;
+  font-size: 32px;
+  color: #d2ddd7;
+  border-radius: 10px;
+  background-color: #413734;
+  /* text-align: center; */
 }

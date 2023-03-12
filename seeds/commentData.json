@@ -1,0 +1,22 @@
+[
+  {
+    "comment": "JavaScript is coll",
+    "post_id": "1",
+    "user_id": "2"
+  },
+  {
+    "comment": "HTML",
+    "post_id": "HTML is awesome",
+    "user_id": "2"
+  },
+  {
+    "comment": "Node JS is easy",
+    "post_id": "3",
+    "user_id": "4"
+  },
+  {
+    "comment": "It is fun to style with css",
+    "post_id": "4",
+    "user_id": "1"
+  }
+]

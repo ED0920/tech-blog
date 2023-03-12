@@ -1,0 +1,22 @@
+[
+  {
+    "post_title": "JavaScript",
+    "post_body": "JS is programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS",
+    "username_id": "1"
+  },
+  {
+    "post_title": "HTML",
+    "post_body": "HTML is s the standard markup language for Web pages",
+    "username_id": "2"
+  },
+  {
+    "post_title": "Node.JS",
+    "post_body": "NODE.JS is a back-end JavaScript runtime environment",
+    "username_id": "3"
+  },
+  {
+    "post_title": "CSS",
+    "post_body": "CSS is used for styling a html page",
+    "username_id": "4"
+  }
+]
